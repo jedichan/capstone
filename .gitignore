@@ -11,10 +11,13 @@ data/
 video_data/
 toos/
 yolov8n.pt
+*.weights
 *.pth
 *.pt
 *.onnx
 *.pckl
+*.pkl
+*.bin
 
 # ─── pipeline / experiment outputs (regenerated, not source) ────────────────
 _pipeline_output/
@@ -31,7 +34,24 @@ agent/test/generated/
 /_check_videos.py
 /make_progress_doc*.py
 /capstone_progress_report*.docx
+/PROJECT_ARTIFACTS_GUIDANCE*
+/Core Datasets.md
+/CS32-1_final_demo_video.*
 /result.md
+
+# Submitted reports / presentation artifacts
+04_Literature/
+*.pdf
+*.doc
+*.docx
+*.ppt
+*.pptx
+*.mp4
+*.mov
+*.avi
+*.mkv
+*.webm
+*.zip
 
 # ─── Python ─────────────────────────────────────────────────────────────────
 __pycache__/

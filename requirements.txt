@@ -1,0 +1,38 @@
+# Core API service
+fastapi>=0.111,<1.0
+uvicorn[standard]>=0.30,<1.0
+python-multipart>=0.0.9,<1.0
+pydantic>=2.7,<3.0
+httpx>=0.27,<1.0
+python-dotenv>=1.0,<2.0
+
+# LLM, agent, and retrieval stack
+openai>=1.35,<2.0
+langchain>=0.2,<1.0
+langchain-core>=0.2,<1.0
+langchain-openai>=0.1,<1.0
+langgraph>=0.2,<1.0
+chromadb>=0.5,<1.0
+sqlite-vec>=0.1,<1.0
+lancedb>=0.12,<1.0
+llama-index>=0.11,<1.0
+llama-index-vector-stores-chroma>=0.2,<1.0
+
+# Video and vision processing
+numpy>=1.26,<3.0
+pandas>=2.2,<3.0
+opencv-python>=4.10,<5.0
+Pillow>=10.0,<12.0
+torch>=2.3
+torchvision>=0.18
+ultralytics>=8.2,<9.0
+motmetrics>=1.4,<2.0
+
+# Evaluation and data utilities
+openpyxl>=3.1,<4.0
+pytest>=8.0,<9.0
+ragas>=0.1,<1.0
+nltk>=3.8,<4.0
+pycocoevalcap>=1.2,<2.0
+transformers>=4.42,<5.0
+qwen-vl-utils>=0.0.8,<1.0
