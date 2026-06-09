@@ -1,0 +1,9 @@
+{
+  "dependencies": [
+    "."
+  ],
+  "graphs": {
+    "capstone_agent": "./graph.py:graph"
+  },
+  "env": ".env"
+}

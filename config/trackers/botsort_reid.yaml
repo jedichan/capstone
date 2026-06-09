@@ -1,0 +1,17 @@
+# BoT-SORT + ReID — this repo's variant of Ultralytics' default botsort config
+# Reference: https://github.com/ultralytics/ultralytics/blob/main/ultralytics/cfg/trackers/botsort.yaml
+
+tracker_type: botsort
+track_high_thresh: 0.30
+track_low_thresh: 0.10
+new_track_thresh: 0.50
+track_buffer: 90
+match_thresh: 0.85
+fuse_score: True
+
+gmc_method: none
+
+proximity_thresh: 0.35
+appearance_thresh: 0.25
+with_reid: True
+model: auto

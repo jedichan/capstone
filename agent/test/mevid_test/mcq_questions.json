@@ -1,0 +1,170 @@
+[
+  {
+    "id": "MCQ-S01",
+    "category": "search",
+    "video_id": "2018-03-11.13-50-01.13-55-01.bus.G508.r13",
+    "expected_time": "0:06-0:32",
+    "question": "What was the person wearing who appeared in camera G508 at the start of the recording (around 0:06)?",
+    "choices": {
+      "A": "Blue jacket and white trousers",
+      "B": "Grey coat, black trousers, and orange bag",
+      "C": "Dark hoodie and cargo pants",
+      "D": "Red sweater and blue jeans"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "MCQ-S02",
+    "category": "search",
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G424.r13",
+    "expected_time": "0:30-0:49",
+    "question": "Which of the following best describes the person visible in camera G424 around 0:40?",
+    "choices": {
+      "A": "White shirt and light-colored trousers",
+      "B": "Yellow raincoat with a large suitcase",
+      "C": "Dark clothing with a backpack",
+      "D": "Grey uniform with a cap"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "MCQ-S03",
+    "category": "search",
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G421.r13",
+    "expected_time": "2:08-3:44",
+    "question": "What was the person wearing who appeared in camera G421 around 2:08?",
+    "choices": {
+      "A": "Light blue shirt and grey trousers",
+      "B": "White jacket and black pants",
+      "C": "Dark jacket and plaid shirt",
+      "D": "Orange coat and dark jeans"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "MCQ-T01",
+    "category": "temporal",
+    "video_id": "2018-03-11.13-50-01.13-55-01.bus.G506.r13",
+    "expected_time": "2:11-2:37",
+    "question": "Approximately when did the person with light blue shirt appear in camera G506?",
+    "choices": {
+      "A": "0:00–0:30",
+      "B": "1:00–1:30",
+      "C": "2:00–2:45",
+      "D": "4:00–5:00"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "MCQ-T02",
+    "category": "temporal",
+    "video_id": "2018-03-11.13-50-01.13-55-01.bus.G508.r13",
+    "expected_time": "0:06-0:32",
+    "question": "How long was the person with grey coat visible in camera G508?",
+    "choices": {
+      "A": "Less than 5 seconds",
+      "B": "About 25–30 seconds",
+      "C": "About 2 minutes",
+      "D": "More than 4 minutes"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "MCQ-T03",
+    "category": "temporal",
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G424.r13",
+    "expected_time": "0:30-0:49",
+    "question": "When did the person with dark clothing and backpack first appear in camera G424?",
+    "choices": {
+      "A": "0:00–0:15",
+      "B": "0:30–0:55",
+      "C": "2:10–2:40",
+      "D": "4:10–4:40"
+    },
+    "answer": "B"
+  },
+  {
+    "id": "MCQ-E01",
+    "category": "event",
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G328.r13",
+    "expected_time": "0:30-3:02",
+    "question": "The person with dark clothing and a backpack was tracked across two cameras. Which camera did they appear in FIRST?",
+    "choices": {
+      "A": "G421",
+      "B": "G506",
+      "C": "G424",
+      "D": "G329"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "MCQ-E02",
+    "category": "event",
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G421.r13",
+    "expected_time": "0:50-2:02",
+    "question": "Which camera did the person wearing a dark coat come from BEFORE being seen in camera G421?",
+    "choices": {
+      "A": "G508",
+      "B": "G328",
+      "C": "G424",
+      "D": "G329"
+    },
+    "answer": "D"
+  },
+  {
+    "id": "MCQ-E03",
+    "category": "event",
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G424.r13",
+    "expected_time": "3:25-4:52",
+    "question": "The person with white shirt was tracked moving between camera G328 and camera G424. What was the order of their appearance?",
+    "choices": {
+      "A": "G328 first, then G424",
+      "B": "G424 first, then G328",
+      "C": "Only seen in G328, never in G424",
+      "D": "Only seen in G424, never in G328"
+    },
+    "answer": "A"
+  },
+  {
+    "id": "MCQ-A01",
+    "category": "activity",
+    "video_id": "2018-03-11.13-50-01.13-55-01.bus.G508.r13",
+    "expected_time": "0:06-0:32",
+    "question": "In which direction did the person with grey coat exit from camera G508?",
+    "choices": {
+      "A": "Through the right side of the frame",
+      "B": "Through the top of the frame",
+      "C": "Through the left side of the frame",
+      "D": "They did not exit; they stayed throughout the recording"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "MCQ-C01",
+    "category": "counting",
+    "video_id": "",
+    "expected_time": "N/A",
+    "question": "How many persons were tracked across multiple cameras (cross-camera tracks) in this recording session?",
+    "choices": {
+      "A": "1 person",
+      "B": "2 persons",
+      "C": "3 or more persons",
+      "D": "No cross-camera tracks were found"
+    },
+    "answer": "C"
+  },
+  {
+    "id": "MCQ-N01",
+    "category": "anomaly",
+    "video_id": "",
+    "expected_time": "N/A",
+    "question": "Which of the following cross-camera appearances did NOT occur in this recording session?",
+    "choices": {
+      "A": "A person moving from camera G424 to camera G328",
+      "B": "A person moving from camera G329 to camera G421",
+      "C": "A person with dark hoodie moving from camera G421 to camera G508",
+      "D": "A person with white shirt moving from camera G328 to camera G424"
+    },
+    "answer": "C"
+  }
+]

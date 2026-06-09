@@ -1,0 +1,72 @@
+# ─── secrets / env ──────────────────────────────────────────────────────────
+.env
+.env.*
+!.env.example
+
+# ─── large data & model artifacts (NOT versioned) ───────────────────────────
+_data/
+_model/
+_models/
+data/
+video_data/
+toos/
+yolov8n.pt
+*.pth
+*.pt
+*.onnx
+*.pckl
+
+# ─── pipeline / experiment outputs (regenerated, not source) ────────────────
+_pipeline_output/
+outputs/
+logs/
+sanity/
+results/
+docs/
+agent/test/generated/
+
+# Root-level scratch result files
+/result_*.json
+/result_*.log
+/_check_videos.py
+/make_progress_doc*.py
+/capstone_progress_report*.docx
+/result.md
+
+# ─── Python ─────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# ─── tooling / IDE ──────────────────────────────────────────────────────────
+.claude/
+.trae/
+.langgraph_api/
+agent/.langgraph_api/
+agent/init/agent_init_profile.json
+agent/_删除的文件/
+.idea/
+.vscode/
+.DS_Store
+
+# ─── local runtime / eval artifacts (not versioned) ─────────────────────────
+_cache/
+mevid_fastapi/data/
+agent/test/mevid_test/data/
+agent/test/mevid_test/agent_eval_results/
+
+# ─── temp / build ───────────────────────────────────────────────────────────
+*.tmp
+*.bak
+*.swp
+build/
+dist/
+node_modules/
+frontend/node_modules/
+frontend/dist/
+*.log
+*_output.txt

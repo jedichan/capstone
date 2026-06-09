@@ -1,0 +1,802 @@
+[
+  {
+    "id": "S01",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G326",
+    "expected_time": "3:46-3:50",
+    "question": "What was the person wearing who appeared in camera G326 around 3:46?",
+    "choices": {
+      "A": "red jacket, dark trousers, grey beanie, no visible bag",
+      "B": "black coat, blue jeans, dark flat cap, white patterned scarf, carrying large black bag",
+      "C": "black leather jacket, dark blue jeans, white checkered cap, dark backpack, hand near face",
+      "D": "black leather jacket, black trousers, light shoulder bag, brown ponytail"
+    },
+    "answer": "C",
+    "ground_truth": "black leather jacket, dark blue jeans, white checkered cap, dark backpack, hand near face"
+  },
+  {
+    "id": "S02",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "0:10-0:19",
+    "question": "What was the person wearing who appeared in camera G329 around 0:10?",
+    "choices": {
+      "A": "red jacket, dark trousers, grey beanie, no visible bag",
+      "B": "black coat, blue jeans, dark flat cap, white patterned scarf, carrying large black bag",
+      "C": "black leather jacket, black trousers, light shoulder bag, brown ponytail",
+      "D": "brown jacket, blue jeans, dark shoes, no visible bag"
+    },
+    "answer": "A",
+    "ground_truth": "red jacket, dark trousers, grey beanie, no visible bag"
+  },
+  {
+    "id": "S03",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "3:36-3:49",
+    "question": "What was the person wearing who appeared in camera G329 around 3:36?",
+    "choices": {
+      "A": "brown jacket, blue jeans, dark shoes, no visible bag",
+      "B": "black leather jacket, dark blue jeans, white checkered cap, dark backpack, hand near face",
+      "C": "red jacket, dark trousers, grey beanie, no visible bag",
+      "D": "black coat, blue jeans, dark flat cap, white patterned scarf, carrying large black bag"
+    },
+    "answer": "B",
+    "ground_truth": "black leather jacket, dark blue jeans, white checkered cap, dark backpack, hand near face"
+  },
+  {
+    "id": "S04",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G506",
+    "expected_time": "2:54-3:19",
+    "question": "What was the person wearing who was leading the group in camera G506 around 2:54?",
+    "choices": {
+      "A": "light grey jacket, black trousers, long blonde hair, carrying black handbag",
+      "B": "long black coat, dark trousers, dark shoes, no visible bag",
+      "C": "bright blue jacket, grey trousers, light cap, blue backpack",
+      "D": "olive green jacket, dark trousers, dark shoes, short hair or dark cap, no clear bag"
+    },
+    "answer": "D",
+    "ground_truth": "olive green jacket, dark trousers, dark shoes, short hair or dark cap, no clear bag"
+  },
+  {
+    "id": "S05",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G506",
+    "expected_time": "2:55-3:18",
+    "question": "Which person in the group walking through camera G506 around 2:55 was carrying a black handbag?",
+    "choices": {
+      "A": "olive green jacket, dark trousers, dark shoes, short hair, no clear bag",
+      "B": "long black coat, dark trousers, dark shoes, no visible bag",
+      "C": "light grey jacket, black trousers, long blonde hair, carrying black handbag",
+      "D": "bright blue jacket, grey trousers, light cap, blue backpack"
+    },
+    "answer": "C",
+    "ground_truth": "light grey jacket, black trousers, long blonde hair, carrying black handbag"
+  },
+  {
+    "id": "S06",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G508",
+    "expected_time": "1:15-1:28",
+    "question": "What was the person wearing who appeared in camera G508 around 1:15?",
+    "choices": {
+      "A": "light blue jacket, tan trousers, dark shoes, no clear bag",
+      "B": "long black coat, dark trousers, dark shoes, no visible bag, short dark hair or dark cap",
+      "C": "black leather jacket, dark blue jeans, white checkered cap, dark backpack",
+      "D": "olive green jacket, dark trousers, dark shoes, no clear bag"
+    },
+    "answer": "B",
+    "ground_truth": "long black coat, dark trousers, dark shoes, no visible bag, short dark hair or dark cap"
+  },
+  {
+    "id": "S07",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G336",
+    "expected_time": "3:45-4:59",
+    "question": "Which person in the group walking through camera G336 around 3:45 was most visually distinctive?",
+    "choices": {
+      "A": "bright blue jacket, grey or tan trousers, light cap, blue backpack",
+      "B": "dark blue or olive jacket, dark trousers, dark shoes, no clear bag",
+      "C": "long dark coat, dark trousers, dark shoes, no visible bag",
+      "D": "dark jacket, black trousers, long light hair, carrying black handbag"
+    },
+    "answer": "A",
+    "ground_truth": "bright blue jacket, grey or tan trousers, light cap, blue backpack"
+  },
+  {
+    "id": "S08",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "0:47-0:57",
+    "question": "What was the person wearing who appeared in camera G419 around 0:47?",
+    "choices": {
+      "A": "black coat, dark trousers or skirt, long dark hair, carrying dark handbag",
+      "B": "light blue hoodie or jacket, dark trousers, black cap, no visible bag",
+      "C": "long black coat, dark trousers, dark shoes, no clear bag",
+      "D": "light grey hoodie or jacket, dark trousers, shaved or bald head, no visible bag"
+    },
+    "answer": "D",
+    "ground_truth": "light grey hoodie or jacket, dark trousers, shaved or bald head, no visible bag"
+  },
+  {
+    "id": "S09",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G420",
+    "expected_time": "1:25-1:36",
+    "question": "What was the person wearing who appeared in camera G420 around 1:25?",
+    "choices": {
+      "A": "light grey or white jacket, dark trousers, light hair or white cap, no clear bag",
+      "B": "cream or light beige coat, dark trousers, short light hair, carrying dark shoulder bag",
+      "C": "dark hooded coat, dark trousers, dark shoes, no visible bag",
+      "D": "grey sweatshirt, black beanie, dark trousers, red scarf or neck detail"
+    },
+    "answer": "A",
+    "ground_truth": "light grey or white jacket, dark trousers, light hair or white cap, no clear bag"
+  },
+  {
+    "id": "S10",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G420",
+    "expected_time": "1:57-2:10",
+    "question": "What was the person wearing who appeared in camera G420 around 1:57?",
+    "choices": {
+      "A": "light grey or white jacket, dark trousers, light cap, no clear bag",
+      "B": "black zip jacket, grey trousers, black shoes, short dark hair, no visible bag",
+      "C": "cream or light beige coat, dark trousers, short light hair, carrying dark shoulder bag",
+      "D": "dark jacket, tan trousers, dark shoes, carrying backpack"
+    },
+    "answer": "C",
+    "ground_truth": "cream or light beige coat, dark trousers, short light hair, carrying dark shoulder bag"
+  },
+  {
+    "id": "S11",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G328",
+    "expected_time": "2:22-3:24",
+    "question": "What was the person wearing who appeared in camera G328 around 2:22 walking together with another person?",
+    "choices": {
+      "A": "dark jacket, dark trousers, no visible bag, distant view",
+      "B": "red jacket, dark trousers, no clear bag",
+      "C": "black coat, blue jeans or dark trousers, carrying dark bag",
+      "D": "dark jacket, dark trousers, light cap or light hair, no clear bag"
+    },
+    "answer": "B",
+    "ground_truth": "red jacket, dark trousers, no clear bag"
+  },
+  {
+    "id": "S12",
+    "category": "search",
+    "video_id": "",
+    "camera_id": "G420",
+    "expected_time": "0:40-0:51",
+    "question": "What was the person wearing who appeared in camera G420 around 0:40 holding a cup?",
+    "choices": {
+      "A": "light blue jacket, blue jeans, black cap, no visible bag",
+      "B": "black coat with tan fur hood, dark trousers, no clear bag",
+      "C": "long black coat, dark trousers, long dark hair, carrying dark handbag",
+      "D": "burgundy or brown jacket, dark trousers, curly hair, tan shoulder bag, holding cup"
+    },
+    "answer": "D",
+    "ground_truth": "burgundy or brown jacket, dark trousers, curly hair, tan shoulder bag, holding cup"
+  },
+  {
+    "id": "T01",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G326",
+    "expected_time": "0:18-0:23",
+    "question": "Approximately when did the person described as \"red jacket, dark trousers, grey beanie, no visible bag\" first appear in camera G326?",
+    "choices": {
+      "A": "1:00-1:30",
+      "B": "0:00-0:30",
+      "C": "3:30-4:00",
+      "D": "0:30-1:00"
+    },
+    "answer": "B",
+    "ground_truth": "0:00-0:30"
+  },
+  {
+    "id": "T02",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G326",
+    "expected_time": "3:46-3:50",
+    "question": "Approximately when did the person described as \"black leather jacket, dark blue jeans, white checkered cap, dark backpack\" first appear in camera G326?",
+    "choices": {
+      "A": "0:00-0:30",
+      "B": "2:00-2:30",
+      "C": "3:30-4:00",
+      "D": "4:00-4:30"
+    },
+    "answer": "C",
+    "ground_truth": "3:30-4:00"
+  },
+  {
+    "id": "T03",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G506",
+    "expected_time": "2:54-3:19",
+    "question": "Approximately when did the four-person group first appear in camera G506?",
+    "choices": {
+      "A": "2:30-3:00",
+      "B": "0:30-1:00",
+      "C": "4:00-4:30",
+      "D": "1:30-2:00"
+    },
+    "answer": "A",
+    "ground_truth": "2:30-3:00"
+  },
+  {
+    "id": "T04",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G508",
+    "expected_time": "1:15-1:28",
+    "question": "Approximately when did the person described as \"long black coat, dark trousers, no visible bag\" first appear in camera G508?",
+    "choices": {
+      "A": "0:00-0:30",
+      "B": "1:00-1:30",
+      "C": "2:30-3:00",
+      "D": "3:00-3:30"
+    },
+    "answer": "B",
+    "ground_truth": "1:00-1:30"
+  },
+  {
+    "id": "T05",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G336",
+    "expected_time": "3:45-4:59",
+    "question": "Approximately when did the person with the bright blue jacket and blue backpack first appear in camera G336?",
+    "choices": {
+      "A": "0:00-0:30",
+      "B": "2:00-2:30",
+      "C": "3:30-4:00",
+      "D": "1:30-2:00"
+    },
+    "answer": "C",
+    "ground_truth": "3:30-4:00"
+  },
+  {
+    "id": "T06",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "0:00-0:19",
+    "question": "Approximately when did the person described as \"light blue hoodie or jacket, dark trousers, black cap\" first appear in camera G419?",
+    "choices": {
+      "A": "0:00-0:30",
+      "B": "1:00-1:30",
+      "C": "3:00-3:30",
+      "D": "4:00-4:30"
+    },
+    "answer": "A",
+    "ground_truth": "0:00-0:30"
+  },
+  {
+    "id": "T07",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "1:07-2:12",
+    "question": "Approximately when did the person described as \"black zip jacket, grey trousers, black shoes, short dark hair\" first appear in camera G419?",
+    "choices": {
+      "A": "0:30-1:00",
+      "B": "1:00-1:30",
+      "C": "2:00-2:30",
+      "D": "3:00-3:30"
+    },
+    "answer": "B",
+    "ground_truth": "1:00-1:30"
+  },
+  {
+    "id": "T08",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G420",
+    "expected_time": "1:57-2:10",
+    "question": "Approximately when did the person described as \"cream or light beige coat, short light hair, carrying dark shoulder bag\" first appear in camera G420?",
+    "choices": {
+      "A": "0:30-1:00",
+      "B": "2:30-3:00",
+      "C": "1:30-2:00",
+      "D": "3:00-3:30"
+    },
+    "answer": "C",
+    "ground_truth": "1:30-2:00"
+  },
+  {
+    "id": "T09",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "3:30-3:37",
+    "question": "Approximately when did the person described as \"light grey jacket, blue jeans, long dark hair, carrying dark shoulder bag\" first appear in camera G419?",
+    "choices": {
+      "A": "0:30-1:00",
+      "B": "2:00-2:30",
+      "C": "4:00-4:30",
+      "D": "3:30-4:00"
+    },
+    "answer": "D",
+    "ground_truth": "3:30-4:00"
+  },
+  {
+    "id": "T10",
+    "category": "temporal",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "3:36-3:49",
+    "question": "Approximately when did the person described as \"black leather jacket, dark blue jeans, white checkered cap, dark backpack\" first appear in camera G329?",
+    "choices": {
+      "A": "0:00-0:30",
+      "B": "1:00-1:30",
+      "C": "3:30-4:00",
+      "D": "4:00-4:30"
+    },
+    "answer": "C",
+    "ground_truth": "3:30-4:00"
+  },
+  {
+    "id": "E01",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G326",
+    "expected_time": "N/A",
+    "question": "The person with a white checkered cap and dark backpack was tracked across three cameras. Which camera did they appear in FIRST?",
+    "choices": {
+      "A": "G326",
+      "B": "G329",
+      "C": "G328",
+      "D": "G336"
+    },
+    "answer": "A",
+    "ground_truth": "G326"
+  },
+  {
+    "id": "E02",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "N/A",
+    "question": "The person with a white checkered cap and dark backpack was seen in G326 first, then in G329. Which camera did they appear in AFTER G329?",
+    "choices": {
+      "A": "G420",
+      "B": "G506",
+      "C": "G328",
+      "D": "G419"
+    },
+    "answer": "C",
+    "ground_truth": "G328"
+  },
+  {
+    "id": "E03",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G506",
+    "expected_time": "N/A",
+    "question": "The person with a bright blue jacket and blue backpack was tracked across two cameras. Which camera did they appear in FIRST?",
+    "choices": {
+      "A": "G506",
+      "B": "G336",
+      "C": "G419",
+      "D": "G328"
+    },
+    "answer": "A",
+    "ground_truth": "G506"
+  },
+  {
+    "id": "E04",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G336",
+    "expected_time": "N/A",
+    "question": "The group of four persons (olive jacket, long black coat, light grey jacket, bright blue jacket) appeared first in G506. Which camera did they move to NEXT?",
+    "choices": {
+      "A": "G419",
+      "B": "G328",
+      "C": "G336",
+      "D": "G329"
+    },
+    "answer": "C",
+    "ground_truth": "G336"
+  },
+  {
+    "id": "E05",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "N/A",
+    "question": "The person with a red jacket (P1) and the person with a black coat and large black bag (P2) were tracked together from G326 to G329. Which camera did they exit from LAST?",
+    "choices": {
+      "A": "G326",
+      "B": "G329",
+      "C": "G328",
+      "D": "G506"
+    },
+    "answer": "B",
+    "ground_truth": "G329"
+  },
+  {
+    "id": "E06",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "N/A",
+    "question": "The person wearing a black coat with long dark hair and dark handbag was tracked from G419 to G420. Which camera did they appear in FIRST?",
+    "choices": {
+      "A": "G420",
+      "B": "G336",
+      "C": "G419",
+      "D": "G506"
+    },
+    "answer": "C",
+    "ground_truth": "G419"
+  },
+  {
+    "id": "E07",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G326",
+    "expected_time": "N/A",
+    "question": "The person with a black leather jacket, light shoulder bag, and brown ponytail (P3) was seen in which TWO cameras?",
+    "choices": {
+      "A": "G506 and G336",
+      "B": "G419 and G420",
+      "C": "G326 and G329",
+      "D": "G328 and G329"
+    },
+    "answer": "C",
+    "ground_truth": "G326 and G329"
+  },
+  {
+    "id": "E08",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "N/A",
+    "question": "The person in black zip jacket and grey trousers (P28) showed unusual behavior in G419. What best describes what they did?",
+    "choices": {
+      "A": "Entered through a door and remained stationary for a long time",
+      "B": "Ran quickly across the camera frame",
+      "C": "Walked upstairs and did not return",
+      "D": "Went upstairs first, disappeared briefly, then returned and exited downward"
+    },
+    "answer": "D",
+    "ground_truth": "Went upstairs first, disappeared briefly, then returned and exited downward"
+  },
+  {
+    "id": "E09",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G420",
+    "expected_time": "N/A",
+    "question": "The person with the black coat, long dark hair and red or orange shoulder bag (P33) was tracked from G419 to G420. In G420, approximately when did they appear?",
+    "choices": {
+      "A": "0:00-0:30",
+      "B": "2:00-2:30",
+      "C": "4:00-4:30",
+      "D": "1:00-1:30"
+    },
+    "answer": "C",
+    "ground_truth": "4:00-4:30"
+  },
+  {
+    "id": "E10",
+    "category": "event",
+    "video_id": "",
+    "camera_id": "G506",
+    "expected_time": "N/A",
+    "question": "How many of the four persons from the group in camera G506 were later confirmed in camera G336?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "D",
+    "ground_truth": "4 (all four: P6, P7, P8, P9)"
+  },
+  {
+    "id": "A01",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G326",
+    "expected_time": "0:18-0:23",
+    "question": "In which direction did the person with the red jacket (P1) exit camera G326?",
+    "choices": {
+      "A": "left",
+      "B": "right",
+      "C": "up (through door)",
+      "D": "down"
+    },
+    "answer": "C",
+    "ground_truth": "up"
+  },
+  {
+    "id": "A02",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "0:10-0:20",
+    "question": "In which direction did the person with the black coat, large black bag, and white patterned scarf (P2) exit camera G329?",
+    "choices": {
+      "A": "right",
+      "B": "up",
+      "C": "left",
+      "D": "down"
+    },
+    "answer": "A",
+    "ground_truth": "right"
+  },
+  {
+    "id": "A03",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G506",
+    "expected_time": "2:54-3:19",
+    "question": "In which direction did the four-person group exit camera G506?",
+    "choices": {
+      "A": "right",
+      "B": "left",
+      "C": "up",
+      "D": "down"
+    },
+    "answer": "B",
+    "ground_truth": "left"
+  },
+  {
+    "id": "A04",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G508",
+    "expected_time": "1:15-1:28",
+    "question": "In which direction did the person with the long black coat (P10) exit camera G508?",
+    "choices": {
+      "A": "left",
+      "B": "right",
+      "C": "down",
+      "D": "up (toward stair/door area)"
+    },
+    "answer": "D",
+    "ground_truth": "up"
+  },
+  {
+    "id": "A05",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "1:07-2:12",
+    "question": "In which direction did the person in the black zip jacket and grey trousers (P28) ultimately exit camera G419?",
+    "choices": {
+      "A": "up",
+      "B": "left",
+      "C": "down",
+      "D": "right"
+    },
+    "answer": "C",
+    "ground_truth": "down"
+  },
+  {
+    "id": "A06",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G336",
+    "expected_time": "2:50-2:59",
+    "question": "In which direction did the person in a black jacket and black cap (P20) exit camera G336 around 2:50?",
+    "choices": {
+      "A": "right (toward parked car)",
+      "B": "left",
+      "C": "up",
+      "D": "down"
+    },
+    "answer": "A",
+    "ground_truth": "right"
+  },
+  {
+    "id": "A07",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G336",
+    "expected_time": "0:00-0:04",
+    "question": "What was the person in a black jacket and blue jeans (P19) doing when observed in camera G336 at the clip start?",
+    "choices": {
+      "A": "carrying a large bag on their shoulder",
+      "B": "holding a phone or small object",
+      "C": "wearing headphones",
+      "D": "carrying a white cup"
+    },
+    "answer": "B",
+    "ground_truth": "holding phone or small object"
+  },
+  {
+    "id": "A08",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "0:25-0:30",
+    "question": "In which direction did the person in the brown jacket and blue jeans (P5) exit camera G329?",
+    "choices": {
+      "A": "left",
+      "B": "right",
+      "C": "down",
+      "D": "up (walked upstairs)"
+    },
+    "answer": "D",
+    "ground_truth": "up"
+  },
+  {
+    "id": "A09",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G326",
+    "expected_time": "3:46-3:50",
+    "question": "In which direction did the person with the white checkered cap and dark backpack (P4) exit camera G326?",
+    "choices": {
+      "A": "left",
+      "B": "up (through door)",
+      "C": "right",
+      "D": "down"
+    },
+    "answer": "B",
+    "ground_truth": "up"
+  },
+  {
+    "id": "A10",
+    "category": "activity",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "3:30-3:37",
+    "question": "In which direction did the person in a light grey jacket and long dark hair carrying a dark shoulder bag (P32) exit camera G419?",
+    "choices": {
+      "A": "down",
+      "B": "up",
+      "C": "left",
+      "D": "right"
+    },
+    "answer": "A",
+    "ground_truth": "down"
+  },
+  {
+    "id": "C01",
+    "category": "counting",
+    "video_id": "",
+    "camera_id": "G326",
+    "expected_time": "N/A",
+    "question": "How many different persons appeared in camera G326 during the entire recording?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "C",
+    "ground_truth": "4 (P1, P2, P3, P4)"
+  },
+  {
+    "id": "C02",
+    "category": "counting",
+    "video_id": "",
+    "camera_id": "G506",
+    "expected_time": "2:50-3:25",
+    "question": "How many persons were in the walking group visible in camera G506 between 2:50 and 3:25?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "6"
+    },
+    "answer": "C",
+    "ground_truth": "4 (P6, P7, P8, P9)"
+  },
+  {
+    "id": "C03",
+    "category": "counting",
+    "video_id": "",
+    "camera_id": "G508",
+    "expected_time": "N/A",
+    "question": "How many different persons appeared in camera G508 during the entire recording?",
+    "choices": {
+      "A": "1",
+      "B": "2",
+      "C": "3",
+      "D": "4"
+    },
+    "answer": "B",
+    "ground_truth": "2 (P10, P11)"
+  },
+  {
+    "id": "C04",
+    "category": "counting",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "N/A",
+    "question": "How many different persons appeared in camera G329 during the entire recording?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "D",
+    "ground_truth": "5 (P1, P2, P3, P5, P4)"
+  },
+  {
+    "id": "C05",
+    "category": "counting",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "0:46-0:59",
+    "question": "How many persons from the staircase group in camera G419 (between 0:46 and 0:59) were later confirmed in camera G420?",
+    "choices": {
+      "A": "2",
+      "B": "3",
+      "C": "4",
+      "D": "5"
+    },
+    "answer": "D",
+    "ground_truth": "5 (P23, P24, P25, P26, P27)"
+  },
+  {
+    "id": "AN01",
+    "category": "anomaly",
+    "video_id": "",
+    "camera_id": "G336",
+    "expected_time": "2:50-2:59",
+    "question": "Which person in camera G336 behaved unusually by walking toward a parked car and becoming occluded by it?",
+    "choices": {
+      "A": "black jacket, tan trousers, black boots, long dark hair, small dark bag",
+      "B": "bright blue jacket, grey trousers, light cap, blue backpack",
+      "C": "black jacket, blue jeans, black cap, holding phone or small object",
+      "D": "black jacket, black trousers, black cap or short dark hair, no visible bag"
+    },
+    "answer": "D",
+    "ground_truth": "black jacket, black trousers, black cap or short dark hair, no visible bag (P20)"
+  },
+  {
+    "id": "AN02",
+    "category": "anomaly",
+    "video_id": "",
+    "camera_id": "G419",
+    "expected_time": "1:07-2:12",
+    "question": "Which person in camera G419 showed unusual behavior by going upstairs, disappearing briefly, then returning and exiting downward?",
+    "choices": {
+      "A": "light grey hoodie, dark trousers, shaved or bald head, no visible bag",
+      "B": "light blue hoodie, dark trousers, black cap, no visible bag",
+      "C": "black zip jacket, grey trousers, black shoes, short dark hair, no visible bag",
+      "D": "dark jacket, light blue jeans, light cap, no visible bag"
+    },
+    "answer": "C",
+    "ground_truth": "black zip jacket, grey trousers, black shoes, short dark hair, no visible bag (P28)"
+  },
+  {
+    "id": "AN03",
+    "category": "anomaly",
+    "video_id": "",
+    "camera_id": "G329",
+    "expected_time": "0:25-0:30",
+    "question": "In camera G329, which person exited in a different direction (upstairs) compared to the main group who exited to the right?",
+    "choices": {
+      "A": "red jacket, dark trousers, grey beanie, no visible bag",
+      "B": "brown jacket, blue jeans, dark shoes, no visible bag",
+      "C": "black coat, blue jeans, dark flat cap, white patterned scarf, carrying large black bag",
+      "D": "black leather jacket, black trousers, light shoulder bag, brown ponytail"
+    },
+    "answer": "B",
+    "ground_truth": "brown jacket, blue jeans, dark shoes, no visible bag (P5)"
+  }
+]

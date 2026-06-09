@@ -1,0 +1,28 @@
+# Default cross-camera person matching parameters
+# Maps to video.core.schema.multi_camera.CrossCameraConfig
+
+# Max time gap (seconds) between two trajectories to still treat as same person across cameras
+max_transition_sec: 30.0
+
+# Min overlap (seconds) when both trajectories are visible; 0 = any overlap counts
+min_overlap_sec: 0.0
+
+# Re-ID cosine threshold; below this, discard pair
+embedding_threshold: 0.65
+
+# Top-K Re-ID pairs sent to VLM for secondary verification
+llm_verify_top_k: 3
+
+# Only match trajectories with class_name == "person"
+person_only: true
+
+# Same-camera fragment stitching (different track_id but time-contiguous)
+same_camera_max_gap_sec: 3.0
+same_camera_reid_threshold: 0.80
+
+# Min cross-camera combined score (0.7*cosine + 0.3*time_window_score)
+cross_camera_min_score: 0.65
+
+# VLM verification only for borderline cosine range
+llm_verify_cosine_min: 0.65
+llm_verify_cosine_max: 0.80

@@ -1,0 +1,92 @@
+[
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.bus.G506.r13",
+    "question": "Around 2:11, is there a person with light blue shirt visible in camera G506?",
+    "expected": "yes",
+    "expected_time": "2:11-2:37",
+    "difficulty": "medium",
+    "recall_challenge": "light blue shirt, dark pants, medium build; time-point around 2:11 (person_global_1)",
+    "category": "temporal"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.bus.G508.r13",
+    "question": "Is there a person with grey coat visible in camera G508?",
+    "expected": "yes",
+    "expected_time": "0:06-0:32",
+    "difficulty": "easy",
+    "recall_challenge": "grey coat, black trousers, orange bag, short dark hair",
+    "category": "single_camera"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G328.r13",
+    "question": "Did a person wearing dark clothing with a backpack appear in camera G424 and then appear again in camera G328?",
+    "expected": "yes",
+    "expected_time": "0:30-3:02",
+    "difficulty": "medium",
+    "recall_challenge": "dark clothing, backpack, medium build; cross-camera: school.G424→school.G328 (person_global_5)",
+    "category": "cross_camera"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.bus.G508.r13",
+    "question": "Did a person exit from the left side of camera G508?",
+    "expected": "yes",
+    "expected_time": "0:06-0:32",
+    "difficulty": "medium",
+    "recall_challenge": "person walks toward/exit from left side",
+    "category": "single_camera"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G424.r13",
+    "question": "Is there a person wearing dark clothing with a backpack visible in camera G424?",
+    "expected": "yes",
+    "expected_time": "0:30-0:49",
+    "difficulty": "easy",
+    "recall_challenge": "dark clothing, backpack, medium build; school.G424 (person_global_5)",
+    "category": "single_camera"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G424.r13",
+    "question": "Did a person with white shirt appear in camera G328 and then appear again in camera G424?",
+    "expected": "yes",
+    "expected_time": "3:25-4:52",
+    "difficulty": "hard",
+    "recall_challenge": "white shirt, dark trousers; cross-camera: school.G328→school.G424",
+    "category": "cross_camera"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G421.r13",
+    "question": "Around 2:08, is there a person with dark jacket and plaid shirt visible in camera G421?",
+    "expected": "yes",
+    "expected_time": "2:08-3:44",
+    "difficulty": "medium",
+    "recall_challenge": "dark jacket, plaid shirt, dark pants, medium build; time-point around 2:08 (person_global_4)",
+    "category": "temporal"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G421.r13",
+    "question": "Did a person with dark hoodie from camera G421 also appear in camera G508?",
+    "expected": "no",
+    "expected_time": "N/A",
+    "difficulty": "medium",
+    "recall_challenge": "dark hoodie, dark trousers; cross-camera: school.G421→bus.G508 (not same person)",
+    "category": "negative"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G421.r13",
+    "question": "Did a person with dark coat appear in camera G329 and then appear again in camera G421?",
+    "expected": "yes",
+    "expected_time": "0:50-2:02",
+    "difficulty": "medium",
+    "recall_challenge": "dark coat, dark pants, medium build; cross-camera: admin.G329→school.G421 (person_global_3)",
+    "category": "cross_camera"
+  },
+  {
+    "video_id": "2018-03-11.13-50-01.13-55-01.school.G328.r13",
+    "question": "Did a person with dark long coat from camera G328 also appear in camera G421?",
+    "expected": "no",
+    "expected_time": "N/A",
+    "difficulty": "medium",
+    "recall_challenge": "dark long coat; cross-camera: school.G328→school.G421 (not same person)",
+    "category": "negative"
+  }
+]
